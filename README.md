@@ -1,3 +1,27 @@
+angular4-universal-semanticui-demo
+----------------------------------
+
+This is a demo app for integration of semantic-ui into an universal angular 4 app (server rendered).
+
+The demo is built on the angular 4 universal boilerplate from [https://github.com/ng-seed/universal](https://github.com/ng-seed/universal)
+
+Usage
+=====
+
+Clone the repository at [https://github.com/bogdancar/angular4-universal-semanticui-demo](https://github.com/bogdancar/angular4-universal-semanticui-demo)
+
+Run `yarn` or `npm install` on the folder.
+
+Build the app with `npm run build:universal-dev`
+
+Run with `npm run serve`
+
+Go to your browser on the About page to see the result [http://localhost:8000/about](http://localhost:8000/about)
+
+
+
+
+
 [![Build Status](https://travis-ci.org/ng-seed/universal.svg?branch=master)](https://travis-ci.org/ng-seed/universal)
 
 # ng-seed/universal
